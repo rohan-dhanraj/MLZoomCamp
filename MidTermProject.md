@@ -11,3 +11,7 @@ From the [notebook](./notebook.ipynb) it is very much clear that, Linear Regress
 [Kaggle](https://www.kaggle.com/mohansacharya/graduate-admissions).
 
 [GitHub](https://github.com/rohan-dhanraj/Datasets/blob/main/Admission_Predict.csv)
+
+
+# Application:
+Check the application at: https://admn-predixn.herokuapp.com/
